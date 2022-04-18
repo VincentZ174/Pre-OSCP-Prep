@@ -1,0 +1,6 @@
+## Burpsuite
+
+* intercepting request sent to /Account/login.aspx page
+* we get the paramters sent to the login below to be used for hydra
+
+`__VIEWSTATE=4PEOLQsNEPyf5jP0DGwF%2B9BQ4HEf0svfrA2rZTUZjG%2FJAWAGCgCEWd%2BgDNkMzcIzAeZMnPv59WNg80gjP72pqvavmrYKKPH9dd1RK%2FH2iLZC9T1ztg75lV1vHeuZys1B1BG3wJdK4hGGQI43OlxvlkIagWQmDFX8qzKzekURWiFrlmW2&__EVENTVALIDATION=1iDgSIWopF9OjC5C%2FW6NM2nTn5idZlLQlCxx1Gb6fTwUppx32ynDEXskopFj52M%2BwgYMCKdxT8tlTy%2BHx1yvkKgw8usg2wbzGyrxjYYpLesFTPK%2BU%2Bns1iZIB3KSVVk2b2VMwbBnTHnML%2FJYACIQ5jF5ufQrwn5%2F%2BcfeilH8nNZPKCzh&ctl00%24MainContent%24LoginUser%24UserName=admin&ctl00%24MainContent%24LoginUser%24Password=aaa&ctl00%24MainContent%24LoginUser%24LoginButton=Log+in`

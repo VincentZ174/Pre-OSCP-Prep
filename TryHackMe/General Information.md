@@ -1,0 +1,1 @@
+Note taking for TryHackMe rooms

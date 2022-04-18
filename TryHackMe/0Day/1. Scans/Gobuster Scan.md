@@ -1,5 +1,5 @@
 ## Gobuster Scan Results
-***
+```
 ===============================================================
 2022/04/10 22:08:09 Starting gobuster in directory enumeration mode
 ===============================================================
@@ -42,4 +42,4 @@
 /.html-               (Status: 403) [Size: 285]                                   
 /.htm2                (Status: 403) [Size: 284]                                   
 /.htuser              (Status: 403) [Size: 286]                  
-***
+```

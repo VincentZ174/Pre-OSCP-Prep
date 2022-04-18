@@ -10,4 +10,7 @@ Tracking notes from rooms and boxes tackled from [TryHackMe](https://tryhackme.c
 
 TryHackme
 - [x] Jr. Penetration Tester
- 
+- [ ] Offensive Pentesting
+
+HackTheBox
+

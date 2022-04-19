@@ -12,5 +12,5 @@ Tracking notes from rooms and boxes tackled from [TryHackMe](https://tryhackme.c
 - [x] Jr. Penetration Tester
 - [ ] Offensive Pentesting
 
-HackTheBox
+## HackTheBox
 

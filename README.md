@@ -13,4 +13,7 @@ Tracking notes from rooms and boxes tackled from [TryHackMe](https://tryhackme.c
 - [ ] Offensive Pentesting
 
 ## HackTheBox
-
+### Linux Boxes
+- [x] Lame
+- [x] Shocker
+- [x] Bashed

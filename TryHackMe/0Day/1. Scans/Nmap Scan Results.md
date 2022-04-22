@@ -1,5 +1,6 @@
 ## Nmap Scan Results
-***
+
+```
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
@@ -14,4 +15,5 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 12.97 seconds
-***
+```
+
